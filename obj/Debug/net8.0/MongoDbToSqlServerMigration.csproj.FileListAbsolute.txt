@@ -1,0 +1,150 @@
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\obj\Debug\net8.0\MongoDbToSqlServerMigration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\obj\Debug\net8.0\MongoDbToSqlServerMigration.AssemblyInfoInputs.cache
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\obj\Debug\net8.0\MongoDbToSqlServerMigration.AssemblyInfo.cs
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\obj\Debug\net8.0\MongoDbToSqlServerMigration.csproj.CoreCompileInputs.cache
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\obj\Debug\net8.0\MongoDbToSqlServerMigration.csproj.AssemblyReference.cache
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\MongoDbToSqlServerMigration.exe
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\MongoDbToSqlServerMigration.deps.json
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\MongoDbToSqlServerMigration.runtimeconfig.json
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\MongoDbToSqlServerMigration.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\MongoDbToSqlServerMigration.pdb
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\Snappier.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\obj\Debug\net8.0\MongoDbT.FCD634DA.Up2Date
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\obj\Debug\net8.0\MongoDbToSqlServerMigration.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\obj\Debug\net8.0\refint\MongoDbToSqlServerMigration.dll
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\obj\Debug\net8.0\MongoDbToSqlServerMigration.pdb
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\obj\Debug\net8.0\MongoDbToSqlServerMigration.genruntimeconfig.cache
+C:\Users\Admin_AA\source\repos\MongoDbToSqlServerMigration\obj\Debug\net8.0\ref\MongoDbToSqlServerMigration.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\MongoDbToSqlServerMigration.exe
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\MongoDbToSqlServerMigration.deps.json
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\MongoDbToSqlServerMigration.runtimeconfig.json
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\MongoDbToSqlServerMigration.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\MongoDbToSqlServerMigration.pdb
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\DnsClient.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\Snappier.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\obj\Debug\net8.0\MongoDbToSqlServerMigration.csproj.AssemblyReference.cache
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\obj\Debug\net8.0\MongoDbToSqlServerMigration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\obj\Debug\net8.0\MongoDbToSqlServerMigration.AssemblyInfoInputs.cache
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\obj\Debug\net8.0\MongoDbToSqlServerMigration.AssemblyInfo.cs
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\obj\Debug\net8.0\MongoDbToSqlServerMigration.csproj.CoreCompileInputs.cache
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\obj\Debug\net8.0\MongoDbT.FCD634DA.Up2Date
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\obj\Debug\net8.0\MongoDbToSqlServerMigration.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\obj\Debug\net8.0\refint\MongoDbToSqlServerMigration.dll
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\obj\Debug\net8.0\MongoDbToSqlServerMigration.pdb
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\obj\Debug\net8.0\MongoDbToSqlServerMigration.genruntimeconfig.cache
+C:\Users\maila\source\repos\MongoDbToSqlServerMigration (2)\MongoDbToSqlServerMigration\obj\Debug\net8.0\ref\MongoDbToSqlServerMigration.dll
